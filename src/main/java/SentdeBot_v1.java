@@ -5,6 +5,10 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/*
+ * Original bot in python: https://www.youtube.com/watch?v=vC3lQ3ZJE2Y
+ */
+
 public class SentdeBot_v1 {
 
     public static void main(final String[] args) {
