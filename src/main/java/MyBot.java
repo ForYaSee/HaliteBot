@@ -9,7 +9,7 @@ public class MyBot {
 
     public static void main(final String[] args) {
         final Networking networking = new Networking();
-        final GameMap gameMap = networking.initialize("ForYaBot"); //Insane surprising bot technology
+        final GameMap gameMap = networking.initialize("ForYaBot");
 
         List<Move> commandQueue = new ArrayList<>();
 
