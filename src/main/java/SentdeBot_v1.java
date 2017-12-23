@@ -5,11 +5,11 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class MyBot {
+public class SentdeBot_v1 {
 
     public static void main(final String[] args) {
         final Networking networking = new Networking();
-        final GameMap gameMap = networking.initialize("ForYaBot"); //Insane surprising bot technology
+        final GameMap gameMap = networking.initialize("Sentdebot-v1"); //Insane surprising bot technology
 
         List<Move> commandQueue = new ArrayList<>();
 
